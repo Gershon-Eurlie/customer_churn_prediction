@@ -400,7 +400,7 @@ plt.ylabel('Truth')
 # In[55]:
 
 
-y_test.shape
+y_test.shape # looking at the dimension of the test data
 
 
 # ## ACCURACY
